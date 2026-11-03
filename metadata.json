@@ -1,0 +1,6 @@
+{
+  "name": "InternShield - Internship AI Scam Detector",
+  "description": "AI-powered defense platform detecting predatory internship scams, fake offer letters, spoofed recruiter domains, upfront equipment fees, and credential theft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
